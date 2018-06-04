@@ -1,0 +1,9 @@
+E:\file\C#\WeSerial\WeSerial\bin\Debug\WeSerial.exe.config
+E:\file\C#\WeSerial\WeSerial\bin\Debug\WeSerial.exe
+E:\file\C#\WeSerial\WeSerial\bin\Debug\WeSerial.pdb
+E:\file\C#\WeSerial\WeSerial\obj\Debug\WeSerial.csprojResolveAssemblyReference.cache
+E:\file\C#\WeSerial\WeSerial\obj\Debug\WeSerial.Form1.resources
+E:\file\C#\WeSerial\WeSerial\obj\Debug\WeSerial.Properties.Resources.resources
+E:\file\C#\WeSerial\WeSerial\obj\Debug\WeSerial.csproj.GenerateResource.Cache
+E:\file\C#\WeSerial\WeSerial\obj\Debug\WeSerial.exe
+E:\file\C#\WeSerial\WeSerial\obj\Debug\WeSerial.pdb
